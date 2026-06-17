@@ -13,6 +13,7 @@ Aspiring Java Developer
 
 ### AI-Powered Software Architecture Generator
 Built a full-stack application that generates software project blueprints using AI.
+
 https://project-idea-generator-bvbt.onrender.com/
 
 ### Vijay Shop E-Commerce Backend
