@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vijayakumar M 👋
 
-<!--
-**vijayakumardevforge/vijayakumardevforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Java Developer
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- PostgreSQL
+- REST APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### AI-Powered Software Architecture Generator
+Built a full-stack application that generates software project blueprints using AI.
+https://project-idea-generator-bvbt.onrender.com/
+
+### Vijay Shop E-Commerce Backend
+Developed backend APIs using Java, Spring Boot, PostgreSQL, and JWT Authentication.
+
+## Portfolio
+https://vijayakumar-m.vercel.app/
+
+## LinkedIn
+https://www.linkedin.com/in/vijayakumardevforge/
+
+## GitHub Stats
+Learning Java, Spring Boot, PostgreSQL, and Backend Development.
