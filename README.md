@@ -23,7 +23,7 @@ Developed backend APIs using Java, Spring Boot, PostgreSQL, and JWT Authenticati
 https://vijayakumar-m.vercel.app/
 
 ## LinkedIn
-https://www.linkedin.com/in/vijayakumardevforge/
+www.linkedin.com/in/vijayakumardevforge
 
 ## GitHub Stats
 Learning Java, Spring Boot, PostgreSQL, and Backend Development.
