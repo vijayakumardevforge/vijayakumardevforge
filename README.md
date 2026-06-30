@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00f0ff&height=200&section=header&text=Vijayakumar%20M&fontSize=65&fontColor=ffffff&desc=System.out.println(%22Wake%20up,%20Backend%20Developer...%22)&descAlignY=70&descSize=20&fontAlignY=35" alt="Cyberpunk Banner" />
 </div>
-
 <h3>
     <samp>
         Hey There!, I am
