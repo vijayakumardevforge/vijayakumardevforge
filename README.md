@@ -10,8 +10,7 @@
 
 ### Aspiring Java Backend Developer
 
-I am a passionate developer focused on building scalable backend systems. I specialize in Java, Spring Boot, and database management with PostgreSQL, and I enjoy creating efficient RESTful APIs.
-
+Seeking a Java Developer Intern or Trainee role. Passionate about Java, Spring Boot, REST APIs, and backend development.
 ---
 
 ## 🛠️ Skills & Technologies
