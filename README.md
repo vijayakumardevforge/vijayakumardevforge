@@ -38,7 +38,7 @@ A full-stack web application that uses AI to help developers overcome "coder's b
 - **Learning Roadmaps:** Generates a step-by-step development roadmap to guide you through building the project.
 - **Tech Stack:** Java, Spring Boot, PostgreSQL, HuggingFace AI API, HTML/CSS/JS
 
-### 🛒 Vijay Shop E-Commerce Backend
+### 🛒 Aj E-Commerce Backend
 A robust e-commerce backend system designed to handle products, users.
 - **Secure Authentication:** Implements JWT (JSON Web Tokens) for secure user login and registration.
 - **Data Management:** Efficiently manages relational data for products, users, and orders using Spring Data JPA.
