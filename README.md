@@ -18,7 +18,7 @@ I am a passionate developer focused on building robust and scalable backend syst
 
 ## 🚀 Featured Projects
 
-### 🧠 AI-Powered Software Architecture Generator [**🔗Project Demo**](https://project-idea-generator-bvbt.onrender.com/)
+### 🧠 AI-Powered Software Architecture Generator [**🔗Live Demo**](https://project-idea-generator-bvbt.onrender.com/)
 A full-stack web application that uses AI to help developers overcome "coder's block" by generating complete software project blueprints. 
 - **Dynamic Generation:** Generates customized project ideas based on your chosen skill level, language, framework, and domain.
 - **Complete Blueprints:** Instantly provides a project description, suggested database schema (tables), and recommended REST API endpoints.
@@ -35,7 +35,7 @@ A robust e-commerce backend system designed to handle products, users.
 
 ## 📬 Connect with Me
 
-- 🌐 **Portfolio:** [**Portfolio**](https://vijayakumar-m.vercel.app/)
+- 🌐 **Portfolio:** [**Vijayakumar M**](https://vijayakumar-m.vercel.app/)
 - 💼 **LinkedIn:** [**Vijayakumar M**](https://www.linkedin.com/in/vijayakumardevforge)
 - 📧 **Email:** **vijayakumardevforge@gmail.com**
 
