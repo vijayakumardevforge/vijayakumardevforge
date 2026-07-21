@@ -20,7 +20,7 @@ I am a passionate developer focused on building scalable backend systems. I spec
 - **Languages:** Java
 - **Frameworks:** Spring Boot
 - **Databases:** PostgreSQL
-- **Architecture & Web:** REST APIs, HTML/CSS, JavaScript
+- **Architecture & Web:** REST APIs
 - **Tools:** Git & GitHub, Postman
 
 ---
