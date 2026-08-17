@@ -44,7 +44,6 @@ A robust e-commerce backend system designed to handle product catalogs, secure u
 
 ## 📬 Connect with Me
 
-- 🌐 **Portfolio:** **[Vijayakumar M](https://vijayakumar-m.vercel.app/)**
 - 💼 **LinkedIn:** **[Vijayakumar M](https://www.linkedin.com/in/vijayakumardevforge)**
 - 📧 **Email:** **vijayakumardevforge@gmail.com**
 
