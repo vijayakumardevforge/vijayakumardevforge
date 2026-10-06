@@ -3,15 +3,15 @@
 </div>
 
 <h3>
-    <samp>
-        Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/vijayakumardevforge/">Vijayakumar M</a></b>👋
-    </samp>
+  <samp>
+    Hey There!, I am
+    <b><a target="_blank" href="https://www.linkedin.com/in/vijayakumardevforge/">Vijayakumar M</a></b>👋
+  </samp>
 </h3>
 
-### Aspiring Java Backend Developer
+### Java Backend Developer
 
-I am a passionate developer focused on building scalable backend systems. I specialize in Java, Spring Boot, and database management with PostgreSQL, and I enjoy creating efficient RESTful APIs.
+I am a Java developer focused on backend development. I work with Java, Spring Boot, REST APIs, and PostgreSQL, and I enjoy building practical backend applications and improving my problem-solving skills.
 
 ---
 
@@ -19,26 +19,30 @@ I am a passionate developer focused on building scalable backend systems. I spec
 
 - **Languages:** Java
 - **Frameworks:** Spring Boot
-- **Databases:** PostgreSQL
+- **Databases:** PostgreSQL, Redis
 - **Architecture & Web:** REST APIs
-- **Tools:** Git & GitHub, Postman
+- **Tools:** Git & GitHub, Postman, IntelliJ IDEA
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 AI-Powered Software Architecture Generator [**🔗 Live Demo**](https://project-idea-generator-bvbt.onrender.com/)
-A full-stack web application that uses AI to help developers overcome "coder's block" by generating complete software project blueprints. 
-- **Dynamic Generation:** Generates customized project ideas based on your chosen skill level, language, framework, and domain.
-- **Complete Blueprints:** Instantly provides a project description, suggested database schema (tables), and recommended REST API endpoints.
-- **Learning Roadmaps:** Generates a step-by-step development roadmap to guide you through building the project.
+
+A full-stack web application that helps developers turn project ideas into structured software blueprints.
+
+- **Dynamic Generation:** Generates project ideas based on the selected skill level, language, framework, and domain.
+- **Complete Blueprints:** Provides project descriptions, database schemas, and recommended REST API endpoints.
+- **Learning Roadmaps:** Generates step-by-step roadmaps to help guide project development.
 - **Tech Stack:** Java, Spring Boot, PostgreSQL, HuggingFace AI API, HTML/CSS/JS
 
-### 🛒 Aj Shop E-Commerce Backend
-A robust e-commerce backend system designed to handle product catalogs, secure user management, and order processing.
-- **Secure Authentication:** Implements JWT (JSON Web Tokens) for secure user login and registration.
-- **Data Management:** Efficiently manages relational data for products, users, and orders using Spring Data JPA.
-- **Tech Stack:** Java, Spring Boot, PostgreSQL
+---
+
+## 💼 Experience
+
+### Java Developer Intern — Zoho Corporation
+
+Currently working as a Java Developer Intern at Zoho, gaining practical experience in software development, problem solving, debugging, and working with development teams.
 
 ---
 
@@ -48,4 +52,5 @@ A robust e-commerce backend system designed to handle product catalogs, secure u
 - 📧 **Email:** **vijayakumardevforge@gmail.com**
 
 ---
-Always eager to learn new technologies and build impactful software solutions!
+
+Always learning, building, and improving as a Java backend developer.
