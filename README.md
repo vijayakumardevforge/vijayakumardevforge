@@ -9,9 +9,9 @@
   </samp>
 </h3>
 
-### Java Backend Developer
+### Aspiring Java Backend Developer
 
-I am a Java developer focused on backend development. I work with Java, Spring Boot, REST APIs, and PostgreSQL, and I enjoy building practical backend applications and improving my problem-solving skills.
+I am a Computer Science graduate with a foundation in Java and backend development. I am currently gaining practical experience as a Java Developer Intern at Zoho.
 
 ---
 
@@ -21,7 +21,7 @@ I am a Java developer focused on backend development. I work with Java, Spring B
 - **Frameworks:** Spring Boot
 - **Databases:** PostgreSQL, Redis
 - **Architecture & Web:** REST APIs
-- **Tools:** Git & GitHub, Postman, IntelliJ IDEA
+- **Tools:** Git & GitHub, Postman
 
 ---
 
@@ -42,7 +42,7 @@ A full-stack web application that helps developers turn project ideas into struc
 
 ### Java Developer Intern — Zoho Corporation
 
-Currently working as a Java Developer Intern at Zoho, gaining practical experience in software development, problem solving, debugging, and working with development teams.
+Currently gaining practical experience in a professional software development environment and improving my Java programming, problem-solving, debugging, and software development skills through assigned tasks.
 
 ---
 
@@ -53,4 +53,4 @@ Currently working as a Java Developer Intern at Zoho, gaining practical experien
 
 ---
 
-Always learning, building, and improving as a Java backend developer.
+Always learning, building, and improving my skills as a Java backend developer.
